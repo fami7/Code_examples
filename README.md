@@ -6,7 +6,7 @@ Here are some decisions on machine learning. The goal is to predict the sales pr
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-I'll be glad to hear suggestions on improving my models on Mary.Lubimova@gmail.com 
+I'll be glad to hear suggestions on improving my models on Mary.Lubimova@gmail.com.
 If you use parts of this notebook in your own scripts, please give a link back to this. Thanks!
 
 
