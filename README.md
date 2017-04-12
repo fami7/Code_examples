@@ -1,9 +1,12 @@
 # House Prices Prediction
 by Maria Lyubimova
 
-From Kaggle.com https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+From https://www.kaggle.com/
 
-Here are some examples of my work on machine learning. 
+Here are some decision on machine learning. The goal is to predict the sales price for each house. All data description and conditions you can find here: 
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 I'll be glad to hear suggestions on improving my models. 
 If you use parts of this notebook in your own scripts, please give a link back to this. Thanks!
 
@@ -13,7 +16,7 @@ If you use parts of this notebook in your own scripts, please give a link back t
 - The best model choice - with a delayed sample.
 - Metric - Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
 - Encoding categorical features with the special method for decision trees.
-Handling missing data - a median for numeric features, a new label for categorical ones.
+- Handling missing data - a median for numeric features, a new label for categorical ones.
 
 ### 2. Linear models: Ridge and Lasso
 - Parameter selection - with the cross validation (number of folds = 3).
