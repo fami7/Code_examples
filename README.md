@@ -2,7 +2,7 @@
 by Maria Lyubimova
 From https://www.kaggle.com/ 
 
-Here are some decisions on machine learning. The goal is to predict to predict the sales price for each house. The full data description and conditions you can find here:
+Here are some decisions on machine learning. The goal is to predict the sales price for each house. The full data description and conditions you can find here:
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
